@@ -4,7 +4,7 @@
 
 **Над чим працюю**
 
-[energoreestr](https://github.com/maksym-garkusha/energoreestr): відкриті реєстри НКРЕКП з data.gov.ua, зібрані в одну базу. Пошук компанії за ЄДРПОУ одразу в кількох реєстрах, історія змін від файлу до файлу і звіт про якість самих файлів. C#, ASP.NET Core, EF Core, SQLite. Найцікавіше там не API, а самі файли: головний реєстр формально не є CSV. [Що саме з ним не так](https://github.com/maksym-garkusha/energoreestr#що-виявилося-у-файлах).
+[energoreestr](https://github.com/maksym-garkusha/energoreestr): відкриті реєстри НКРЕКП з data.gov.ua, зведені за кодом ЄДРПОУ. Є [сторінка пошуку](https://maksym-garkusha.github.io/energoreestr/), яка сама оновлюється щотижня, історія змін від файлу до файлу і звіт про якість самих файлів. C#, ASP.NET Core, EF Core, SQLite. Найцікавіше там не API, а самі файли: головний реєстр формально не є CSV. [Що саме з ним не так](https://github.com/maksym-garkusha/energoreestr#що-виявилося-у-файлах).
 
 **Ще тут**
 
