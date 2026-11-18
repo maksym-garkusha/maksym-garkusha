@@ -4,7 +4,13 @@
 
 **Над чим працюю**
 
+[dream-povnota](https://github.com/maksym-garkusha/dream-povnota): наскільки повно заповнені картки проєктів відновлення в системі DREAM. Програма щотижня забирає всі 16 тисяч карток через відкритий API, для кожної перевіряє поля, доречні на її стадії, і показує результат [сторінкою](https://maksym-garkusha.github.io/dream-povnota/) з розрізом за областями й організаціями. Що видно в даних: базові поля заповнені в 99% карток, а от серед проєктів, які вже в роботі, картку за останній рік оновлювали лише в кожній четвертій. [Що ще показали дані](https://github.com/maksym-garkusha/dream-povnota#що-показали-дані). C#, .NET 10.
+
+[ukraine-digital-aid](https://github.com/maksym-garkusha/ukraine-digital-aid): хто з донорів фінансує цифровізацію в Україні, через кого і до коли. Дані з міжнародного реєстру IATI зведені в одну [сторінку з пошуком](https://maksym-garkusha.github.io/ukraine-digital-aid/), українською та англійською. C#, .NET 10.
+
 [energoreestr](https://github.com/maksym-garkusha/energoreestr): відкриті реєстри НКРЕКП з data.gov.ua, зведені за кодом ЄДРПОУ. Є [сторінка пошуку](https://maksym-garkusha.github.io/energoreestr/), яка сама оновлюється щотижня, історія змін від файлу до файлу і звіт про якість самих файлів. C#, ASP.NET Core, EF Core, SQLite. Найцікавіше там не API, а самі файли: головний реєстр формально не є CSV. [Що саме з ним не так](https://github.com/maksym-garkusha/energoreestr#що-виявилося-у-файлах).
+
+[ua-codes](https://github.com/maksym-garkusha/ua-codes): мала бібліотека .NET без залежностей для перевірки українських кодів: ЄДРПОУ, РНОКПП, IBAN, EIC, КАТОТТГ. Виросла з перевірок в energoreestr.
 
 **Ще тут**
 
